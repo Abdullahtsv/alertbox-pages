@@ -1,0 +1,12 @@
+body{
+    background-color: lightgrey;
+}
+
+div{
+    margin: 50px;
+    padding: 30px;
+    border: 5px solid darkblue;
+    float: left;
+    background-color: aliceblue;
+    box-shadow: inset 0px 0px 30px darkblue;        
+}
