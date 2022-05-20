@@ -1,20 +1,12 @@
 var userName = prompt ("Please enter User_Name");
-var myName = "Abdullah Bhatti";
-var message = "Hello World";
-
-
-
-alert(myName)
-alert("17 years old.");
-alert("SSUET");
-alert("Mobile & Cloud Computing - Module A");
+alert(userName);
+var dateOfBirth = prompt ("whats your age?");
+alert(dateOfBirth + " years old."); 
+var instituteName = prompt ("Institute Name");
+alert(instituteName);
+var enrolledCourse = prompt ("enter your course name");
+alert(enrolledCourse);
 alert("PIZZA" + "\n" + "PIZZ" + "\n" + "PIZ" + "\n" + "PI" + "\n" + "P");
-
-
-
-
-
-
 
 if (userName === userName){
     alert("welcome" + "\n" + userName + "\n" + "Please enter your password!");    
