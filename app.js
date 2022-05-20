@@ -1,8 +1,8 @@
-var userName = prompt ("Please enter User_Name");
+var userName = prompt ("Please enter User Name");
 
-alert(userName)
+alert("Welcome to " + userName)
 var age = prompt ("enter your age?");
-alert(age);
+alert(age + " years old..!");
 var institute = prompt ("Institute Name");
 alert(institute);
 var course = prompt ("enrolled course");
