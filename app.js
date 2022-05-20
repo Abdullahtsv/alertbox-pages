@@ -1,13 +1,14 @@
 var userName = prompt ("Please enter User Name");
 
-alert("Welcome to " + userName)
+alert("My name is" + " " + userName)
 var age = prompt ("enter your age?");
-alert(age + " years old..!");
+alert("I am" + " " + age + " " + "years old..!");
 var institute = prompt ("Institute Name");
-alert(institute);
+alert("I study in" + " " + institute);
 var course = prompt ("enrolled course");
-alert(course);
+alert("I take" + " " + course);
 alert("I have a gift for you")
+var emailId = 
 alert("PIZZA" + "\n" + "PIZZ" + "\n" + "PIZ" + "\n" + "PI" + "\n" + "P");
 
 if (userName === userName){
